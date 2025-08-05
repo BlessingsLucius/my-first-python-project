@@ -1,1 +1,1 @@
-# my-first-python-project
+# my-python-practice
